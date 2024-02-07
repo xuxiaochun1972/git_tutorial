@@ -12,3 +12,5 @@ add in branch a
 branch b again
 
 branch b commit
+
+branch b commit 1
